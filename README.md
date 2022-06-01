@@ -5,11 +5,6 @@ A lo largo del presente cuaderno veremos las características generales de la in
 
 Destacamos que en esta plataforma de cálculo simbólico y numérico, las líneas de texto explicativo, las líneas de comandos y la representación gráfica coexisten en el mismo entorno, facilitando así que los estudiantes puedan ejecutar código de una manera interactiva.
 
-## Para comenzar, por favor pulsar el siguiente enlace:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/mod_1.git/main?labpath=Introducci%C3%B3n%20a%20Jupyter.ipynb)
-
-
 
 ## Authors ##
 [Pablo Barbecho](https://www.pbarbecho.com)
