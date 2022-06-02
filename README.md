@@ -7,7 +7,7 @@ A lo largo del presente cuaderno veremos las características generales de la in
 
 Destacamos que en esta plataforma de cálculo simbólico y numérico, las líneas de texto explicativo, las líneas de comandos y la representación gráfica coexisten en el mismo entorno, facilitando así que los estudiantes puedan ejecutar código de una manera interactiva.
 
-## Laboratorio - Introducción a Jupyter: 
+## Laboratorio: 
 Para acceder al laboratorio pulsa el siguiente botón:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Introduccion_Jupyter.ipynb)
 
@@ -19,11 +19,11 @@ En cualquier lenguaje de programación de alto nivel como es Python se manejan d
 En esta semana veremos aspectos relacionados a los tipos de datos utilizados en Pyhton como son: datos numéricos (enteros, punto flotante y complejos) y booleanos. Además, analizaremos los tipos de datos compuestos, como són las cadenas de caracteres y listas. Por último analizamos diferentes tipos de operadores en Python, como son: operadores de asignación, aritméticos, relacionales, lógicos, y de pertenencia.
 
 
-## Laboratorio - Tipos de Datos I: 
+## Laboratorio I: 
 Para acceder al laboratorio pulsa el siguiente botón:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
 
-## Laboratorio - Tipos de Datos II: 
+## Laboratorio II: 
 Para acceder al laboratorio pulsa el siguiente botón:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_II.ipynb)
 
