@@ -20,7 +20,7 @@ En esta semana veremos aspectos relacionados a los tipos de datos utilizados en 
 
 ## Laboratorio I: 
 Para acceder al laboratorio pulsa el siguiente botón:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Variables.ipynb)
 
 ## Laboratorio II: 
 Para acceder al laboratorio pulsa el siguiente botón:
