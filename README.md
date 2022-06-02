@@ -7,6 +7,13 @@ Destacamos que en esta plataforma de cálculo simbólico y numérico, las línea
 
 # Módulo 2 - Tipos de datos en Python
 
+## Tipos de Datos I: Para acceder al laboratorio pulsa el siguiente botón:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
+
+## Tipos de Datos II: Para acceder al laboratorio pulsa el siguiente botón:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_II.ipynb)
+
+
 # Módulo 3 - Secuencias condicionales e iterativas
 
 ## Authors ##
