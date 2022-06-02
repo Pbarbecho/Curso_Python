@@ -18,12 +18,15 @@ En cualquier lenguaje de programación de alto nivel como es Python se manejan d
 
 En esta semana veremos aspectos relacionados a los tipos de datos utilizados en Pyhton como son: datos numéricos (enteros, punto flotante y complejos) y booleanos. Además, analizaremos los tipos de datos compuestos, como són las cadenas de caracteres y listas. Por último analizamos diferentes tipos de operadores en Python, como son: operadores de asignación, aritméticos, relacionales, lógicos, y de pertenencia.
 
-
 ## Laboratorio I: 
 Para acceder al laboratorio pulsa el siguiente botón:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
 
 ## Laboratorio II: 
+Para acceder al laboratorio pulsa el siguiente botón:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
+
+## Laboratorio III: 
 Para acceder al laboratorio pulsa el siguiente botón:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_II.ipynb)
 
@@ -37,8 +40,9 @@ No, esto es falso.
 
 Nunca obtendrás una respuesta como Déjame pensar..., no lo sé, o probablemente sí, pero no lo sé con seguridad. Para hacer preguntas, Python utiliza un conjunto de operadores muy especiales. Revisemos uno tras otro, ilustrando sus efectos en algunos ejemplos simples. Como datos de tipo booleano, Operadores relacionales, cómo tomar decisiones en Python (if, if-else, if-elif, else), cómo repetir la ejecución de código usando los bucles (while, for), Bienvenido nuevamente.
 
-
+## Laboratorio I: 
 Para acceder al laboratorio pulsa el siguiente botón:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
 
 # Módulo 4 - Secuencias condicionales e iterativas
 
