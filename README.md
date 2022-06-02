@@ -5,16 +5,16 @@ A lo largo del presente cuaderno veremos las características generales de la in
 
 Destacamos que en esta plataforma de cálculo simbólico y numérico, las líneas de texto explicativo, las líneas de comandos y la representación gráfica coexisten en el mismo entorno, facilitando así que los estudiantes puedan ejecutar código de una manera interactiva.
 
-## Introducción a Jupyter: Para acceder al laboratorio pulsa el siguiente botón:
+## Laboratorio - Introducción a Jupyter: ### Para acceder al laboratorio pulsa el siguiente botón:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Introduccion_Jupyter.ipynb)
 
 
 # Módulo 2 - Tipos de datos en Python
 
-## Tipos de Datos I: Para acceder al laboratorio pulsa el siguiente botón:
+## Laboratorio - Tipos de Datos I: ### Para acceder al laboratorio pulsa el siguiente botón:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
 
-## Tipos de Datos II: Para acceder al laboratorio pulsa el siguiente botón:
+## Laboratorio - Tipos de Datos II: ### Para acceder al laboratorio pulsa el siguiente botón:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_II.ipynb)
 
 
