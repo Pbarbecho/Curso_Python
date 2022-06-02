@@ -1,4 +1,6 @@
-# Curso Python
+# Curso Python - PUCE
+
+![logo](logo.png)
 # Módulo 1 - Introducción a los cuadernos de Jupyter
 
 A lo largo del presente cuaderno veremos las características generales de la interfaz Jupyter Notebook. En este marco, hemos propuesto Jupyter Notebooks para el diseño de seminarios interactivos, constituyendo una nueva herramienta docente utilizable en el aula y puesta a disposición a través del Campus Virtual y de la plataforma Binder, que nos permite ejecutar los cuadernos de Jupyter sin necesidad de instalar de manera local ningún programa adicional. 
