@@ -1,68 +1,66 @@
-# Curso Python - PUCE
+<p align="center">
+  <img width="500" height="130" src="logo.png">
+</p>
 
-![logo](logo.png)
+<h1 align="center">Introducción a Python</h1>
+
+
+<p align="justify">
+Python es un lenguaje de programación de varios paradigmas (multi-paradigma) utilizado por empresas emergentes y gigantes tecnológicos como Google, Facebook, Netflix y más. Con una sintaxis intuitiva y legible, Python es un excelente primer lenguaje de programación para aprender. Las habilidades de programación le ofrecen posibilidades de carreras en casi cualquier sector y son necesarias si desea pasar a desempeñar roles de ingeniería y desarrollo de software más avanzados y mejor remunerados (Python, 2022). 
+</p>
+<p align="justify"> 
+Este curso cubrirá todos los conceptos básicos de programación en Python, así como conceptos y técnicas generales de  programación.
+</p>
+
 # Módulo 1 - Introducción a los cuadernos de Jupyter
-
-A lo largo del presente cuaderno veremos las características generales de la interfaz Jupyter Notebook. En este marco, hemos propuesto Jupyter Notebooks para el diseño de seminarios interactivos, constituyendo una nueva herramienta docente utilizable en el aula y puesta a disposición a través del Campus Virtual y de la plataforma Binder, que nos permite ejecutar los cuadernos de Jupyter sin necesidad de instalar de manera local ningún programa adicional.
-
-
-
-Destacamos que en esta plataforma de cálculo simbólico y numérico, las líneas de texto explicativo, las líneas de comandos y la representación gráfica coexisten en el mismo entorno, facilitando así que los estudiantes puedan ejecutar código de una manera interactiva.
-
-## Laboratorio: 
-Para acceder al laboratorio pulsa el siguiente botón:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Introduccion_Jupyter.ipynb)
+<p align="justify">
+En este Módulo veremos aspectos relacionados a los lenguajes de programación, compilación vs interpretación,  paradigmas de programación, una introducción a Python, el IDE de Python, instalación de Python, gestores de paquetes, y programas como Anaconda, Jupyther, Spyder y Sandbox. Además, veremos las características generales de la interfaz Jupyter Notebook. En este marco, hemos propuesto Jupyter Notebooks para el diseño de seminarios interactivos, constituyendo una nueva herramienta docente utilizable en el aula y puesta a disposición a través del Campus Virtual y de la plataforma Binder, que nos permite ejecutar los cuadernos de Jupyter sin necesidad de instalar de manera local ningún programa adicional.
+</p>
 
 
-# Módulo 2 - Tipos de datos en Python
+### Laboratorio 1 (Intro Jupyter): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Introduccion_Jupyter.ipynb)
 
-En cualquier lenguaje de programación de alto nivel como es Python se manejan diferentes tipos de datos. Los tipos de datos definen un conjunto de valores que tienen una serie de características y propiedades determinadas. En Python, todo valor que pueda ser asignado a una variable tiene asociado un tipo de dato. Un tipo de dato establece qué valores puede tomar una variable y qué operaciones se pueden realizar sobre la misma. 
 
-En esta semana veremos aspectos relacionados a los tipos de datos utilizados en Pyhton como son: datos numéricos (enteros, punto flotante y complejos) y booleanos. Además, analizaremos los tipos de datos compuestos, como són las cadenas de caracteres y listas. Por último analizamos diferentes tipos de operadores en Python, como son: operadores de asignación, aritméticos, relacionales, lógicos, y de pertenencia.
 
-## Laboratorio I: 
-Para acceder al laboratorio pulsa el siguiente botón:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Variables.ipynb)
+# Módulo 2 - Tipos de datos en Python y Operadores
+<p align="justify">
+En cualquier lenguaje de programación de alto nivel como es Python se manejan diferentes tipos de datos. Los tipos de datos definen un conjunto de valores que tienen una serie de características y propiedades determinadas. En el Módulo 2, veremos aspectos relacionados a los tipos de datos utilizados en Pyhton como son: datos numéricos (enteros, punto flotante y complejos) y booleanos. Además, analizaremos los tipos de datos compuestos, como són las cadenas de caracteres y listas. Por último analizamos diferentes tipos de operadores en Python, como son: operadores de asignación, aritméticos, relacionales, lógicos, y de pertenencia.
+</p>
 
-## Laboratorio II: 
-Para acceder al laboratorio pulsa el siguiente botón:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
+### Laboratorio 2a: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Variables.ipynb)
 
-## Laboratorio III: 
-Para acceder al laboratorio pulsa el siguiente botón:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_II.ipynb)
+### Laboratorio 2b: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
 
+### Laboratorio 2c: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_II.ipynb)
 
 # Módulo 3 - Secuencias condicionales e iterativas
+<p align="justify">
+En cualquier lenguaje de progamación, es importante conocoer las estructuras de control condicionles e iterativas; en éste Módulo 3, analizaremos cómo tomar decisiones en Python (if, if-else, if-elif, else), cómo repetir la ejecución de código usando los bucles (while, for), cómo realizar operaciones lógicas y de bit a bit en Python. Con la ayuda de ejercicios para fortalecer estos conceptos.
+</p>
 
-Generalmente cuando programas escribes un programa y el programa hace preguntas. Una computadora ejecuta el programa y proporciona las respuestas. El programa debe ser capaz de reaccionar de acuerdo con las preguntas recibidas. Afortunadamente, las computadoras solo conocen dos tipos de respuestas:
+### Laboratorio 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
 
-Si, es cierto.
-No, esto es falso.
+# Módulo 4 - Mutabilidad en Python Listas y Tuplas
+<p align="justify">
+Python tiene una peculiaridad y trata sus tipos de datos como mutables o inmutables, lo que significa que si el valor puede cambiar, el objeto se llama mutable, mientras que si el valor no puede cambiar, el objeto se llama inmutable. En el Módulo 4 exploraremos esta propiedad de mutabilidad, analizando dos estructuras de datos ampliamente usadas en Python como son las listas y las tuplas. 
+</p>
 
-Nunca obtendrás una respuesta como Déjame pensar..., no lo sé, o probablemente sí, pero no lo sé con seguridad. Para hacer preguntas, Python utiliza un conjunto de operadores muy especiales. Revisemos uno tras otro, ilustrando sus efectos en algunos ejemplos simples. Como datos de tipo booleano, Operadores relacionales, cómo tomar decisiones en Python (if, if-else, if-elif, else), cómo repetir la ejecución de código usando los bucles (while, for), Bienvenido nuevamente.
-
-## Laboratorio I: 
-Para acceder al laboratorio pulsa el siguiente botón:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
-
-# Módulo 4 - Secuencias condicionales e iterativas
-
-Para acceder al laboratorio pulsa el siguiente botón:
-
-# Módulo 5 - Secuencias condicionales e iterativas
-
-Python es un lenguaje de programación interpretado de alto nivel y orientado a objetos, con el cual podemos crear todo tipo de aplicaciones. Entre sus diversos tipos de estructuras de datos, se encuentran los "Diccionarios de Datos". En este módulo exploraremos a fondo los diccionarios de Python creados con la intención de aproximar la forma en cómo los humanos podemos recordar asociaciones. Comencemos por definir ¿qué es un Diccionario de Python?: Es una estructura de datos con características especiales que nos permite almacenar cualquier tipo de valor como enteros, cadenas, listas e incluso otras funciones. Los diccionarios en Python nos permiten almacenar contenido en forma de llave y valor. 
-
-Además, veremos aprenderemos a definir nuestras propias funciones. Definiendo nuevas funciones estaremos (enseñando) a Python a hacer cálculos que inicialmente no sabe hacer y, en cierto modo, adaptando el lenguaje de programación al tipo de problemas que deseamos resolver.
+### Laboratorio 4: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
 
 
-Para acceder al laboratorio pulsa el siguiente botón:
+# Módulo 5 - Funciones en Python
+<p align="justify">
+Python es un lenguaje de programación interpretado de alto nivel y orientado a objetos, con el cual podemos crear todo tipo de aplicaciones. Entre sus diversos tipos de estructuras de datos, se encuentran los "Diccionarios de Datos". En este módulo exploraremos a fondo los diccionarios de Python creados con la intención de aproximar la forma en cómo los humanos podemos recordar asociaciones. Además, veremos aprenderemos a definir nuestras propias funciones. Definiendo nuevas funciones estaremos (enseñando) a Python a hacer cálculos que inicialmente no sabe hacer y, en cierto modo, adaptando el lenguaje de programación al tipo de problemas que deseamos resolver.
+</p>
 
-# Módulo 6 - Secuencias condicionales e iterativas
-Para acceder al laboratorio pulsa el siguiente botón:
+### Laboratorio 5: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
 
+# Módulo 6 - Módulos y Librerías en Python
+<p align="justify">
+Los módulos son colecciones de funciones que puedes utilizar desde tus programas. Conviene que las funciones se agrupen en módulos según su ámbito de aplicación. En este Módulo aspectos relacionados a las estructuras de datos denominadas dataframes utilizando la librería Pandas y a la creación de arreglos multidimensionales con ayuda de la librería Numpy. Además, aprenderemos a crear nuestros propios Módulos y realizar plots profesionales con ayuda de la librería Matplotlib. 
+</p>
 
+### Laboratorio 6: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
 
 ## Authors ##
 [Pablo Barbecho](https://www.pbarbecho.com)
