@@ -55,7 +55,7 @@ Python es un lenguaje de programación interpretado de alto nivel y orientado a 
 
 ### Laboratorio 5: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
 
-# Módulo 6 - Módulos y Librerías en Python
+# Módulo 6 - Módulos y Librerías
 <p align="justify">
 Los módulos son colecciones de funciones que puedes utilizar desde tus programas. Conviene que las funciones se agrupen en módulos según su ámbito de aplicación. En este Módulo aspectos relacionados a las estructuras de datos denominadas dataframes utilizando la librería Pandas y a la creación de arreglos multidimensionales con ayuda de la librería Numpy. Además, aprenderemos a crear nuestros propios Módulos y realizar plots profesionales con ayuda de la librería Matplotlib. 
 </p>
