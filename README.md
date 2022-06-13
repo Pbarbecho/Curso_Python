@@ -31,7 +31,7 @@ En cualquier lenguaje de programación de alto nivel como es Python se manejan d
 
 ### Laboratorio 2b (Cadena de Caracteres, Listas): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_II.ipynb)
 
-### Laboratorio 2c: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Variables.ipynb)
+### Laboratorio 2c (Variables): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Variables.ipynb)
 
 # Módulo 3 - Secuencias condicionales e iterativas
 <p align="justify">
