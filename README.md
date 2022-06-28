@@ -63,5 +63,9 @@ Los módulos son colecciones de funciones que puedes utilizar desde tus programa
 
 <!--### Laboratorio 6: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)-->
 
+
+# Clases - Empty notebook
+<!--### Laboratorio 6: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=clases.ipynb)-->
+
 ## Authors ##
 [Pablo Barbecho](https://www.pbarbecho.com)
