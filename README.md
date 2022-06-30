@@ -65,6 +65,11 @@ Los módulos son colecciones de funciones que puedes utilizar desde tus programa
 
 
 # Clases - Empty notebook
+
+<p align="justify">
+Puede utilizar este cuaderno vacío durante las clases para probar la sintaxis o partes del código revisado. 
+</p>
+
 ###  Empty notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=clases.ipynb)
 
 
