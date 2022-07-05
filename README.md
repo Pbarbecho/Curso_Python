@@ -36,7 +36,7 @@ En cualquier lenguaje de programación de alto nivel como es Python se manejan d
 
 # Módulo 3 - Secuencias condicionales e iterativas
 <p align="justify">
-En cualquier lenguaje de progamación, es importante conocoer las estructuras de control condicionles e iterativas; en éste Módulo 3, analizaremos cómo tomar decisiones en Python (if, if-else, if-elif, else), cómo repetir la ejecución de código usando los bucles (while, for), cómo realizar operaciones lógicas y de bit a bit en Python. Con la ayuda de ejercicios para fortalecer estos conceptos.
+En cualquier lenguaje de programación, es importante conocer las estructuras de control condicionles e iterativas; en éste Módulo 3, analizaremos cómo tomar decisiones en Python (if, if-else, if-elif, else), cómo repetir la ejecución de código usando los bucles (while, for), cómo realizar operaciones lógicas y de bit a bit en Python. Con la ayuda de ejercicios para fortalecer estos conceptos.
 </p>
 
 <!--### Laboratorio 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)-->
@@ -46,7 +46,7 @@ En cualquier lenguaje de progamación, es importante conocoer las estructuras de
 Python tiene una peculiaridad y trata sus tipos de datos como mutables o inmutables, lo que significa que si el valor puede cambiar, el objeto se llama mutable, mientras que si el valor no puede cambiar, el objeto se llama inmutable. En el Módulo 4 exploraremos esta propiedad de mutabilidad, analizando dos estructuras de datos ampliamente usadas en Python como son las listas y las tuplas. 
 </p>
 
-<!--### Laboratorio 4: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)-->
+### Laboratorio 4: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=bucles.ipynb)
 
 
 # Módulo 5 - Funciones en Python
