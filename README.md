@@ -40,6 +40,7 @@ En cualquier lenguaje de programación, es importante conocer las estructuras de
 </p>
 
 ### Laboratorio 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=bucles.ipynb)
+### Cuestionario M3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=CuestionarioM3.ipynb)
 
 # Módulo 4 - Mutabilidad en Listas y Tuplas
 <p align="justify">
