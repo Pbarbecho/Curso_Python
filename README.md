@@ -47,7 +47,7 @@ En cualquier lenguaje de programación, es importante conocer las estructuras de
 Python tiene una peculiaridad y trata sus tipos de datos como mutables o inmutables, lo que significa que si el valor puede cambiar, el objeto se llama mutable, mientras que si el valor no puede cambiar, el objeto se llama inmutable. En el Módulo 4 exploraremos esta propiedad de mutabilidad, analizando dos estructuras de datos ampliamente usadas en Python como son las listas y las tuplas. 
 </p>
 
-<!--### Laboratorio 4: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=bucles.ipynb)-->
+### Laboratorio 4: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=mutabilidad.ipynb)
 
 
 # Módulo 5 - Funciones en Python
