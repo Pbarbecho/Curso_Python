@@ -55,7 +55,7 @@ Python tiene una peculiaridad y trata sus tipos de datos como mutables o inmutab
 Python es un lenguaje de programación interpretado de alto nivel y orientado a objetos, con el cual podemos crear todo tipo de aplicaciones. Entre sus diversos tipos de estructuras de datos, se encuentran los "Diccionarios de Datos". En este módulo exploraremos a fondo los diccionarios de Python creados con la intención de aproximar la forma en cómo los humanos podemos recordar asociaciones. Además, veremos aprenderemos a definir nuestras propias funciones. Definiendo nuevas funciones estaremos (enseñando) a Python a hacer cálculos que inicialmente no sabe hacer y, en cierto modo, adaptando el lenguaje de programación al tipo de problemas que deseamos resolver.
 </p>
 
-<!--### Laboratorio 5: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)-->
+### Laboratorio 5: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=diccionarios.ipynb)
 
 # Módulo 6 - Módulos y Librerías
 <p align="justify">
