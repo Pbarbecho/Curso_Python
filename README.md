@@ -57,7 +57,7 @@ Python es un lenguaje de programación interpretado de alto nivel y orientado a 
 
 ### Laboratorio 5: Diccionarios [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=diccionarios.ipynb)
 ### Laboratorio 5: Funciones [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=funciones.ipynb)
-### Laboratorio 5: Archivos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=archivos.ipynb)
+### Laboratorio 5: Archivos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=archivostxt.ipynb)
 
 # Módulo 6 - Módulos y Librerías
 <p align="justify">
