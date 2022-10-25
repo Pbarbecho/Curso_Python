@@ -75,7 +75,7 @@ Los módulos son colecciones de funciones que puedes utilizar desde tus programa
 Puede utilizar este enlace para acceder al Curso de Matemáticas utilizando Python
 </p>
 
-## [Enlace Curso Math](https://github.com/Pbarbecho/Curso_Python/blob/main/math/making-readmes-readable.md)
+# [Enlace Curso Math](https://github.com/Pbarbecho/Curso_Python/blob/main/math/README.md)
 
 
 
