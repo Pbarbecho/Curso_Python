@@ -69,6 +69,16 @@ Los módulos son colecciones de funciones que puedes utilizar desde tus programa
 ### Laboratorio 6: Pandas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=numpy.ipynb)
 
 
+# Módulo 7 - Curso Matemáticas
+
+<p align="justify">
+Puede utilizar este enlace para acceder al Curso de Matemáticas utilizando Python
+</p>
+
+###  Empty notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=clases.ipynb)
+
+
+
 # Clases - Empty notebook
 
 <p align="justify">
