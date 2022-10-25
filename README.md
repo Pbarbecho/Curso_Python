@@ -75,7 +75,8 @@ Los módulos son colecciones de funciones que puedes utilizar desde tus programa
 Puede utilizar este enlace para acceder al Curso de Matemáticas utilizando Python
 </p>
 
-###  Empty notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=clases.ipynb)
+
+### [Enlace Curso Math](https://github.com/Pbarbecho/Curso_Python/blob/main/math/making-readmes-readable.md)
 
 
 
