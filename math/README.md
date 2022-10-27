@@ -12,9 +12,9 @@ Python es un lenguaje de programación de varios paradigmas (multi-paradigma) ut
 Este curso cubrirá todos los conceptos básicos de programación en Python, así como conceptos y técnicas generales de  programación.
 </p>
 
-# Módulo 1 - Introducción a los cuadernos de Jupyter
+# Módulo 1 - Teoría de Conjuntos
 <p align="justify">
-En este Módulo veremos aspectos relacionados a los lenguajes de programación, compilación vs interpretación,  paradigmas de programación, una introducción a Python, el IDE de Python, instalación de Python, gestores de paquetes, y programas como Anaconda, Jupyther, Spyder y Sandbox. Además, veremos las características generales de la interfaz Jupyter Notebook. En este marco, hemos propuesto Jupyter Notebooks para el diseño de seminarios interactivos, constituyendo una nueva herramienta docente utilizable en el aula y puesta a disposición a través del Campus Virtual y de la plataforma Binder, que nos permite ejecutar los cuadernos de Jupyter sin necesidad de instalar de manera local ningún programa adicional.
+En este Módulo veremos aspectos relacionados con la Teoría de Conjuntos. Veremos definición de conjuntos, propiedades de los conjuntos, cardinalidad, operaciones entre conjuntos, etc. 
 </p>
 
 
