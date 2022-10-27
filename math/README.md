@@ -9,7 +9,7 @@ En este Módulo veremos aspectos relacionados con la Teoría de Conjuntos. Verem
 </p>
 
 
-### Trabajo en Clases - Cardinalidad: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Introduccion_Jupyter.ipynb)
+### Trabajo en Clases - Cardinalidad: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/cardinalidad.ipynb)
 
 
 ## Authors ##
