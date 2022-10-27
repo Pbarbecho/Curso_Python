@@ -9,16 +9,7 @@ En este Módulo veremos aspectos relacionados con la Teoría de Conjuntos. Verem
 </p>
 
 
-### Laboratorio 1 (Intro Jupyter Notebooks): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Introduccion_Jupyter.ipynb)
-
-
-# Clases - Empty notebook
-
-<p align="justify">
-Puede utilizar este cuaderno vacío durante las clases para probar la sintaxis o partes del código revisado. 
-</p>
-
-###  Empty notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=clases.ipynb)
+### Trabajo en Clases - Cardinalidad: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Introduccion_Jupyter.ipynb)
 
 
 ## Authors ##
