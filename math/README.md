@@ -12,5 +12,8 @@ En este Módulo veremos aspectos relacionados con la Teoría de Conjuntos. Verem
 ### Trabajo en Clases - Cardinalidad: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/cardinalidad.ipynb)
 
 
+### Trabajo en Clases - Infinito: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/inf.ipynb)
+
+
 ## Authors ##
 [Pablo Barbecho](https://www.pbarbecho.com)
