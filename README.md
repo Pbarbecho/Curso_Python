@@ -27,11 +27,11 @@ En este Módulo veremos aspectos relacionados a los lenguajes de programación, 
 En cualquier lenguaje de programación de alto nivel como es Python se manejan diferentes tipos de datos. Los tipos de datos definen un conjunto de valores que tienen una serie de características y propiedades determinadas. En el Módulo 2, veremos aspectos relacionados a los tipos de datos utilizados en Pyhton como son: datos numéricos (enteros, punto flotante y complejos) y booleanos. Además, analizaremos los tipos de datos compuestos, como són las cadenas de caracteres e introduciremos las estructuras denominadas listas y tuplas. Estas últimas las analizaremos a detalle en los siguientes módulos. Por último analizamos diferentes tipos de operadores en Python, como son: operadores de asignación, aritméticos, relacionales, lógicos, y de pertenencia.
 </p>
 
-### Laboratorio 2 (Datos Numéricos, Datos Booleanos): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_I.ipynb)
+### Laboratorio 2 (Datos Numéricos, Datos Booleanos): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/TiposdeDatos_I.ipynb)
 
-### Laboratorio 2 (Variables, Objetos y Operadores): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Variables.ipynb)
+### Laboratorio 2 (Variables, Objetos y Operadores): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/Variables.ipynb)
 
-### Laboratorio 2 (Cadena de Caracteres, Listas): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=TiposdeDatos_II.ipynb)
+### Laboratorio 2 (Cadena de Caracteres, Listas): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/TiposdeDatos_II.ipynb)
 
 
 # Módulo 3 - Secuencias condicionales e iterativas
@@ -39,15 +39,15 @@ En cualquier lenguaje de programación de alto nivel como es Python se manejan d
 En cualquier lenguaje de programación, es importante conocer las estructuras de control condicionles e iterativas; en éste Módulo 3, analizaremos cómo tomar decisiones en Python (if, if-else, if-elif, else), cómo repetir la ejecución de código usando los bucles (while, for), cómo realizar operaciones lógicas y de bit a bit en Python. Con la ayuda de ejercicios para fortalecer estos conceptos.
 </p>
 
-### Laboratorio 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=bucles.ipynb)
-### Cuestionario M3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=CuestionarioM3.ipynb)
+### Laboratorio 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/bucles.ipynb)
+### Cuestionario M3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/CuestionarioM3.ipynb)
 
 # Módulo 4 - Mutabilidad en Listas y Tuplas
 <p align="justify">
 Python tiene una peculiaridad y trata sus tipos de datos como mutables o inmutables, lo que significa que si el valor puede cambiar, el objeto se llama mutable, mientras que si el valor no puede cambiar, el objeto se llama inmutable. En el Módulo 4 exploraremos esta propiedad de mutabilidad, analizando dos estructuras de datos ampliamente usadas en Python como son las listas y las tuplas. 
 </p>
 
-### Laboratorio 4: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=mutabilidad.ipynb)
+### Laboratorio 4: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/mutabilidad.ipynb)
 
 
 # Módulo 5 - Funciones en Python
@@ -55,18 +55,18 @@ Python tiene una peculiaridad y trata sus tipos de datos como mutables o inmutab
 Python es un lenguaje de programación interpretado de alto nivel y orientado a objetos, con el cual podemos crear todo tipo de aplicaciones. Entre sus diversos tipos de estructuras de datos, se encuentran los "Diccionarios de Datos". En este módulo exploraremos a fondo los diccionarios de Python creados con la intención de aproximar la forma en cómo los humanos podemos recordar asociaciones. Además, veremos aprenderemos a definir nuestras propias funciones. Definiendo nuevas funciones estaremos (enseñando) a Python a hacer cálculos que inicialmente no sabe hacer y, en cierto modo, adaptando el lenguaje de programación al tipo de problemas que deseamos resolver.
 </p>
 
-### Laboratorio 5: Diccionarios [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=diccionarios.ipynb)
-### Laboratorio 5: Funciones [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=funciones.ipynb)
-### Laboratorio 5: Archivos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=archivostxt.ipynb)
+### Laboratorio 5: Diccionarios [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/diccionarios.ipynb)
+### Laboratorio 5: Funciones [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/funciones.ipynb)
+### Laboratorio 5: Archivos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/archivostxt.ipynb)
 
 # Módulo 6 - Módulos y Librerías
 <p align="justify">
 Los módulos son colecciones de funciones que puedes utilizar desde tus programas. Conviene que las funciones se agrupen en módulos según su ámbito de aplicación. En este Módulo aspectos relacionados a las estructuras de datos denominadas dataframes utilizando la librería Pandas y a la creación de arreglos multidimensionales con ayuda de la librería Numpy. Además, aprenderemos a crear nuestros propios Módulos y realizar plots profesionales con ayuda de la librería Matplotlib. 
 </p>
 
-### Laboratorio 6: NumPy [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=numpy.ipynb)
-### Laboratorio 6: Matplotlib [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=matplotlib.ipynb)
-### Laboratorio 6: Pandas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=numpy.ipynb)
+### Laboratorio 6: NumPy [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/numpy.ipynb)
+### Laboratorio 6: Matplotlib [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/matplotlib.ipynb)
+### Laboratorio 6: Pandas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/numpy.ipynb)
 
 
 # Módulo 7 - Curso Matemáticas
@@ -86,7 +86,7 @@ Puede utilizar este enlace para acceder al Curso de Matemáticas utilizando Pyth
 Puede utilizar este cuaderno vacío durante las clases para probar la sintaxis o partes del código revisado. 
 </p>
 
-###  Empty notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=clases.ipynb)
+###  Empty notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/clases.ipynb)
 
 
 ## Authors ##
