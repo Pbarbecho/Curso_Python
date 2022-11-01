@@ -18,7 +18,7 @@ En este Módulo veremos aspectos relacionados a los lenguajes de programación, 
 </p>
 
 
-### Laboratorio 1 (Intro Jupyter Notebooks): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=Introduccion_Jupyter.ipynb)
+### Laboratorio 1 (Intro Jupyter Notebooks): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/Introduccion_Jupyter.ipynb)
 
 
 
