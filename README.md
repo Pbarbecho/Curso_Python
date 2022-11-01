@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="100" src="images/logo.png">
+  <img width="300" height="80" src="images/logo.png">
 </p>
 
 <h1 align="center">Introducción a Python</h1>
