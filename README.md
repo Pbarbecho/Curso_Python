@@ -2,7 +2,7 @@
   <img width="300" height="70" src="images/logo.png">
 </p>
 
-<h1 align="center">Introducción a Python</h1>
+<h1 align="center">Introducción a Programación con Python</h1>
 
 
 <p align="justify">
