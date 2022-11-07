@@ -1,7 +1,3 @@
-<p align="left">
-  <img width="500" height="100" src="../images/logo.png">
-</p>
-
 
 # Módulo 1 - Teoría de Conjuntos
 <p align="justify">
