@@ -12,5 +12,7 @@ En este Módulo veremos aspectos relacionados con la Teoría de Conjuntos. Verem
 
 ### Trabajo en Clases - Diagramas de Venn: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/DiagramasdeVenn.ipynb)
 
+### Trabajo en Clases - Ejercicios Propiedades de Venn: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/ejercicios.ipynb)
+
 ## Authors ##
 [Pablo Barbecho](https://www.pbarbecho.com)
