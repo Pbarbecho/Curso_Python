@@ -16,5 +16,7 @@ En este Módulo veremos aspectos relacionados con la Teoría de Conjuntos. Verem
 
 ### Trabajo en Clases - Operaciones sobre conjunos: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/operaciones_sobre_conjuntos.ipynb)
 
+### Trabajo en Clases - Representación de Funciones: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/rep_funciones.ipynb)
+
 ## Authors ##
 [Pablo Barbecho](https://www.pbarbecho.com)
