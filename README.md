@@ -27,10 +27,11 @@ En este Módulo veremos aspectos relacionados a los lenguajes de programación, 
 En cualquier lenguaje de programación de alto nivel como es Python se manejan diferentes tipos de datos. Los tipos de datos definen un conjunto de valores que tienen una serie de características y propiedades determinadas. En el Módulo 2, veremos aspectos relacionados a los tipos de datos utilizados en Pyhton como son: datos numéricos (enteros, punto flotante y complejos) y booleanos. Además, analizaremos los tipos de datos compuestos, como són las cadenas de caracteres e introduciremos las estructuras denominadas listas y tuplas. Estas últimas las analizaremos a detalle en los siguientes módulos. Por último analizamos diferentes tipos de operadores en Python, como son: operadores de asignación, aritméticos, relacionales, lógicos, y de pertenencia.
 </p>
 
+<!--
 ### Laboratorio 2 (Datos Numéricos, Datos Booleanos): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/TiposdeDatos_I.ipynb)
 
 ### Laboratorio 2 (Variables, Objetos y Operadores): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/Variables.ipynb)
-
+-->
 ### Laboratorio 2 (Cadena de Caracteres, Listas): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/TiposdeDatos_II.ipynb)
 
 
