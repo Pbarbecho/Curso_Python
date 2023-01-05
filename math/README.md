@@ -16,7 +16,11 @@ En este Módulo veremos aspectos relacionados con la Teoría de Conjuntos. Verem
 
 ### Trabajo en Clases - Operaciones sobre conjunos: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/operaciones_sobre_conjuntos.ipynb)
 
+# Módulo 2 - Representación de Funciones
+
 ### Trabajo en Clases - Representación de Funciones: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/rep_funciones.ipynb)
+
+# Módulo 3 - Polinomios
 
 ### Trabajo en Clases - Operaciones con Polinomios: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/polinomios.ipynb)
 
