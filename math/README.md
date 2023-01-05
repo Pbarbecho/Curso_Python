@@ -18,5 +18,7 @@ En este Módulo veremos aspectos relacionados con la Teoría de Conjuntos. Verem
 
 ### Trabajo en Clases - Representación de Funciones: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/rep_funciones.ipynb)
 
+### Trabajo en Clases - Operaciones con Polinomios: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/polinomios.ipynb)
+
 ## Authors ##
 [Pablo Barbecho](https://www.pbarbecho.com)
