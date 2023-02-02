@@ -24,5 +24,10 @@ En este Módulo veremos aspectos relacionados con la Teoría de Conjuntos. Verem
 
 ### Trabajo en Clases - Operaciones con Polinomios: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/polinomios.ipynb)
 
+# Módulo 4 - Geometría
+
+### Trabajo en Clases - Equivalencia Radianes-Grados: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/math/ejercicios/rad2deg.ipynb)
+
+
 ## Authors ##
 [Pablo Barbecho](https://www.pbarbecho.com)
