@@ -82,6 +82,14 @@ Puede utilizar este enlace para acceder al Curso de Matemáticas utilizando Pyth
 #### [Enlace Curso Math](https://github.com/Pbarbecho/Curso_Python/blob/main/math/README.md)
 
 
+# Módulo 8 - Control
+
+<p align="justify">
+Puede utilizar este enlace para acceder al Curso de Control utilizando Python
+</p>
+
+#### [Enlace Curso Math](https://github.com/Pbarbecho/Curso_Python/blob/main/control/README.md)
+
 
 
 # Clases - Empty notebook
