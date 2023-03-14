@@ -4,6 +4,6 @@ numpy
 pandas
 seaborn
 sympy
-ipyturtle
 mobilechelonian
 ipywidgets
+scypi
