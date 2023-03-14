@@ -6,4 +6,4 @@ seaborn
 sympy
 mobilechelonian
 ipywidgets
-scypi
+scipy
