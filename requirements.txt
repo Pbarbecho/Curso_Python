@@ -2,8 +2,6 @@ wget
 matplotlib
 numpy
 pandas
-seaborn
 sympy
-mobilechelonian
-ipywidgets
 scipy
+control
