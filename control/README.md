@@ -5,11 +5,14 @@ En este Módulo veremos aspectos relacionados con la Teoría de Control.
 </p>
 
 
-### Introducción:
+### Simulación de un Sistema Dinámico:
 
-#### Modelado de un Sistema Dinámico: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/1st_order_dynamic_system.ipynb)
+#### Solving the Differential Equation: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/1st_order_dynamic_system.ipynb)
 
-#### Modelado de un Sistema Dinámico ODE Solver: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/ode_solver.ipynb)
+#### ODE Solver: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/ode_solver.ipynb)
+
+#### Discretization: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/discretization.ipynb)
+
 
 
 ## Authors ##
