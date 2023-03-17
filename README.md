@@ -29,11 +29,11 @@ En este Módulo veremos aspectos relacionados a los lenguajes de programación, 
 En cualquier lenguaje de programación de alto nivel como es Python se manejan diferentes tipos de datos. Los tipos de datos definen un conjunto de valores que tienen una serie de características y propiedades determinadas. En el Módulo 2, veremos aspectos relacionados a los tipos de datos utilizados en Pyhton como son: datos numéricos (enteros, punto flotante y complejos) y booleanos. Además, analizaremos los tipos de datos compuestos, como són las cadenas de caracteres e introduciremos las estructuras denominadas listas y tuplas. Estas últimas las analizaremos a detalle en los siguientes módulos. Por último analizamos diferentes tipos de operadores en Python, como son: operadores de asignación, aritméticos, relacionales, lógicos, y de pertenencia.
 </p>
 
-<!--
+
 ### Laboratorio 2 (Datos Numéricos, Datos Booleanos): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/TiposdeDatos_I.ipynb)
 
 ### Laboratorio 2 (Variables, Objetos y Operadores): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/Variables.ipynb)
--->
+
 ### Laboratorio 2 (Cadena de Caracteres, Listas): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/TiposdeDatos_II.ipynb)
 
 
@@ -43,9 +43,9 @@ En cualquier lenguaje de programación, es importante conocer las estructuras de
 </p>
 
 ### Laboratorio 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/bucles.ipynb)
-<!--
+
 ### Cuestionario M3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/CuestionarioM3.ipynb)
--->
+
 # Módulo 4 - Mutabilidad en Listas y Tuplas
 <p align="justify">
 Python tiene una peculiaridad y trata sus tipos de datos como mutables o inmutables, lo que significa que si el valor puede cambiar, el objeto se llama mutable, mientras que si el valor no puede cambiar, el objeto se llama inmutable. En el Módulo 4 exploraremos esta propiedad de mutabilidad, analizando dos estructuras de datos ampliamente usadas en Python como son las listas y las tuplas. 
@@ -59,9 +59,9 @@ Python tiene una peculiaridad y trata sus tipos de datos como mutables o inmutab
 Python es un lenguaje de programación interpretado de alto nivel y orientado a objetos, con el cual podemos crear todo tipo de aplicaciones. Entre sus diversos tipos de estructuras de datos, se encuentran los "Diccionarios de Datos". En este módulo exploraremos a fondo los diccionarios de Python creados con la intención de aproximar la forma en cómo los humanos podemos recordar asociaciones. Además, veremos aprenderemos a definir nuestras propias funciones. Definiendo nuevas funciones estaremos (enseñando) a Python a hacer cálculos que inicialmente no sabe hacer y, en cierto modo, adaptando el lenguaje de programación al tipo de problemas que deseamos resolver.
 </p>
 
-<!--### Laboratorio 5: Diccionarios [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/diccionarios.ipynb)-->
+### Laboratorio 5: Diccionarios [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/diccionarios.ipynb)-->
 ### Laboratorio 5: Funciones [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/funciones.ipynb)
-<!--### Laboratorio 5: Archivos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/archivostxt.ipynb)-->
+### Laboratorio 5: Archivos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/archivostxt.ipynb)-->
 
 # Módulo 6 - Módulos y Librerías
 <p align="justify">
