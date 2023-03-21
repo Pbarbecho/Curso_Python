@@ -4,6 +4,12 @@
 
 </p>
 
+### Differential Equations:
+
+### Solved by hand differential equation: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/ec_diff.ipynb)
+
+### Using ODEint solver: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/ec_diff_odeint.ipynb)
+
 
 ### Dynamic System Simulations with Python:
 
