@@ -10,6 +10,10 @@
 
 #### Using ODEint solver: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/ec_diff_odeint.ipynb)
 
+### Create Transfer Functions:
+
+#### Using control library: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/tf.ipynb)
+
 
 
 ### Dynamic System Simulations with Python:
