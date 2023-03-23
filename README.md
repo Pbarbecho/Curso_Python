@@ -101,5 +101,14 @@ Puede utilizar este cuaderno vacío durante las clases para probar la sintaxis o
 ###  Empty notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/clases.ipynb)
 
 
+
+# Clases - SUMO notebook
+
+<p align="justify">
+Puede utilizar este cuaderno vacío durante las clases para probar la sintaxis o partes del código revisado. 
+</p>
+
+###  Empty notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/plot_sumo.ipynb)
+
 ## Authors ##
 [Pablo Barbecho](https://www.pbarbecho.com)
