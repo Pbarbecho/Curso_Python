@@ -112,9 +112,11 @@ Puede utilizar este cuaderno vacío durante las clases para probar la sintaxis o
 
 
 
-# Clases - Random Letter
+# Clases - Random Letter/Number
 
-###  Random Letter: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/randomletter.ipynb)
+###  Random Letter: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/rnumb.ipynb)
+
+###  Random Number: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/rletter.ipynb)
 
 
 ## Authors ##
