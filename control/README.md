@@ -10,6 +10,8 @@
 
 #### Using ODEint solver: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/ec_diff_odeint.ipynb)
 
+<p align="justify">
+
 </p>
 
 ### Create Transfer Functions:
