@@ -91,6 +91,14 @@ Puede utilizar este enlace para acceder al Curso de Control utilizando Python
 #### [Enlace Curso Control](https://github.com/Pbarbecho/Curso_Python/blob/main/control/README.md)
 
 
+# Module 8 - Optimization
+
+<p align="justify">
+ 
+</p>
+
+###  Empty notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/optimization/README.md)
+
 
 # Clases - Empty notebook
 
