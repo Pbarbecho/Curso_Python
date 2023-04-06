@@ -97,7 +97,7 @@ Puede utilizar este enlace para acceder al Curso de Control utilizando Python
  
 </p>
 
-###  Empty notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/optimization/README.md)
+#### [Enlace Curso Optimización](https://github.com/Pbarbecho/Curso_Python/blob/main/optimization/README.md)
 
 
 # Clases - Empty notebook
