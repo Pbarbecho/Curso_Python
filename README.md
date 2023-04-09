@@ -91,7 +91,7 @@ Puede utilizar este enlace para acceder al Curso de Control utilizando Python
 #### [Enlace Curso Control](https://github.com/Pbarbecho/Curso_Python/blob/main/control/README.md)
 
 
-# Module 8 - Optimization
+# Module 9 - Optimization
 
 <p align="justify">
  
