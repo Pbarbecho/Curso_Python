@@ -38,9 +38,9 @@
 ---
 
 
-#### Examples: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/ft-2.ipynb)
+#### Example 1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/ft-2.ipynb)
 
-#### Examples: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/ft-3.ipynb)
+#### Example 2: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/ft-3.ipynb)
 
 
 ## Authors ##
