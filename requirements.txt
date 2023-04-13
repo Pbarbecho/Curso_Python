@@ -5,3 +5,5 @@ pandas
 sympy
 scipy
 control
+pyomo
+gekko
