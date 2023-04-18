@@ -7,4 +7,3 @@ scipy
 control
 pyomo
 gekko
-glpk
