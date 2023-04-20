@@ -10,7 +10,7 @@
 
 ---
 
-#### PYOMO: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/optimization/ejercicios/WarehouseLocationProblem.ipynb)
+#### PYOMO: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/optimization/ejercicios/knapsack.ipynb)
 
 ---
 
