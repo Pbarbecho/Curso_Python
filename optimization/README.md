@@ -6,7 +6,9 @@
 
 </p>
 
-#### SciPy: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/optimization/ejercicios/opti_scipy.ipynb)
+#### SciPy: 
+
+Graph method [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/optimization/ejercicios/opti_scipy.ipynb)
 
 ---
 
