@@ -10,7 +10,9 @@
 
 ---
 
-#### PYOMO: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/optimization/ejercicios/knapsack.ipynb)
+#### PYOMO: 
+
+Knapsack Problem (Build Data): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/optimization/ejercicios/ex1_pyomo.ipynb)
 
 ---
 
