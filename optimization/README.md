@@ -24,7 +24,7 @@ Knapsack Problem (Solution): [![Binder](https://mybinder.org/badge_logo.svg)](ht
 Problem 2 (Solution): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/optimization/ejercicios/lp_ex2.ipynb)
 
 
-Problem Graph Method Sover (Solution): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/optimization/ejercicios/ex_graph_method_solver.ipynb)
+Problem Graph Method Solved (Solution): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/optimization/ejercicios/ex_graph_method_solver.ipynb)
 
 
 ---
