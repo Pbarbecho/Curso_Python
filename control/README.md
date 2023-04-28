@@ -43,5 +43,14 @@
 #### Example 2: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/ft-3.ipynb)
 
 
+
+---
+
+
+### First Order Systems:
+
+
+
+
 ## Authors ##
 [Pablo Barbecho](https://www.pbarbecho.com)
