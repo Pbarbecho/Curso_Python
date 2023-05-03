@@ -26,9 +26,7 @@ Problem 2 (Solution): [![Binder](https://mybinder.org/badge_logo.svg)](https://m
 
 Problem Graph Method Solved 1 (Solution): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/optimization/ejercicios/ex_graph_method_solver.ipynb)
 
-<!--
 Linear Programming Problem (LPP) (Mixed Producction): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/optimization/ejercicios/mixed_prod.ipynb)
--->
 
 ---
 
