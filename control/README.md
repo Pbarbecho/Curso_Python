@@ -49,6 +49,8 @@
 
 ### First Order Systems:
 
+---
+#### Root Locus: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/control/ejercicios/rl_1.ipynb)
 
 
 
